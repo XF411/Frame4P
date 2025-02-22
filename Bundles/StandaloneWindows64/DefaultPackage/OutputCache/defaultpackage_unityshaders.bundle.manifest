@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1904629408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4024e70fc233a4281e4aa97ae0da07e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4024e70fc233a4281e4aa97ae0da07e4
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+Dependencies: []

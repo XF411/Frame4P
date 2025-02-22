@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 210026091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2440f5dfe50cf8a86179bff6bced5291
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2440f5dfe50cf8a86179bff6bced5291
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameRes/UI/UIAtlas/WelcomeUIAtlas.spriteatlasv2
+- Assets/GameRes/UI/UIAtlas/CommonUIAtlas.spriteatlasv2
+Dependencies:
+- E:/Work/UnityProject/4PFrame/4PFrame/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/defaultpackage_share_assets_gameres_ui_uitex_common.bundle
+- E:/Work/UnityProject/4PFrame/4PFrame/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/defaultpackage_share_assets_gameres_ui_uitex_welcomeui_tex.bundle

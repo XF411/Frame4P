@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3912555121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 035ced7fa194e56376e50175b751675c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 923768aebf385ad86f7762daa8034951
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 035ced7fa194e56376e50175b751675c
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameRes/UI/UITex/WelcomeUI/Tex/zutomayo_ZTMY_Asya_Icon_Obenkyou0514.jpg
+Dependencies: []

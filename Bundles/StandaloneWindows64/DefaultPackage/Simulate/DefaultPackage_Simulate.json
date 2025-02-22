@@ -1,0 +1,82 @@
+{
+    "FileVersion": "2.3.0",
+    "LegacyDependency": false,
+    "EnableAddressable": false,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 1,
+    "BuildPipeline": "EditorSimulateBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "Simulate",
+    "PackageNote": "22/02/2025 19:24:54",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameRes/Scenes/Main.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameRes/UI/Prefabs/WelcomeUI.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameRes/UI/UIAtlas/CommonUIAtlas.spriteatlasv2",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameRes/UI/UIAtlas/WelcomeUIAtlas.spriteatlasv2",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "defaultpackage_assets_gameres_scenes.bundle",
+            "UnityCRC": 0,
+            "FileHash": "b5363e882f2969b1c7cfc544ffaf8e13",
+            "FileCRC": "00000000",
+            "FileSize": 18283,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [],
+            "ReferenceBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_ui_prefabs.bundle",
+            "UnityCRC": 0,
+            "FileHash": "f28f0c2228123b605e403d9052c58728",
+            "FileCRC": "00000000",
+            "FileSize": 27003,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [],
+            "ReferenceBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_ui_uiatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "05ae690e55da5691653a082dd580dd03",
+            "FileCRC": "00000000",
+            "FileSize": 788,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [],
+            "ReferenceBundleIDs": []
+        }
+    ]
+}
